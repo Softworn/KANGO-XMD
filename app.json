@@ -15,17 +15,17 @@
       "value": "",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {Michael 
       "description": "Enter your bot name here",
       "value": "Adiza-Bot",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2349110217309
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Michael 
       "description": "Enter your name here",
       "value": "",
       "required": true
