@@ -25,7 +25,7 @@
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {michael 
+    "OWNER_NAME": {
       "description": "Enter your name here",
       "value": "",
       "required": true
