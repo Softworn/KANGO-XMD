@@ -15,7 +15,7 @@
       "value": "",
       "required": false
     },
-    "BOT_NAME": {Michael 
+    "BOT_NAME": {
       "description": "Enter your bot name here",
       "value": "Adiza-Bot",
       "required": false
@@ -25,7 +25,7 @@
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {Michael 
+    "OWNER_NAME": {michael 
       "description": "Enter your name here",
       "value": "",
       "required": true
